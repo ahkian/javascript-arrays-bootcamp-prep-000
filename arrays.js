@@ -16,3 +16,8 @@ function destructivelyAddElementsToEndOfArray(array, newEl){
   array.push(newEl)
   return array
 }
+function accessElementInArray(arr, idx){
+  arr[idx]
+}
+
+function destructivelyAddElementsToEndOfArray
